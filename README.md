@@ -26,7 +26,7 @@ Switch ──DNS询问──▶ Mac (dns_accel.py)
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/ns2-dns-accel.git
+git clone https://github.com/kkksssmmmm-nuoyier/ns2-dns-accel.git
 cd ns2-dns-accel
 sudo bash install.sh
 ```
